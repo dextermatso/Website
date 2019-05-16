@@ -1,0 +1,45 @@
+body{
+	margin: 0;
+	background: url('zxc.jpg') no-repeat fixed center;
+	background-size: 100%;
+}
+#main, h1, nav, ul, li, a{
+	display: inline;
+	margin: 8px;
+}
+
+h1{
+	background-color: #CCC;
+}
+
+.trade{
+	text-align: left;
+}
+
+.btn{
+	font-size: 1em;
+	font-weight: bolder;
+	color: #FFF;
+}
+
+.btn:hover{
+	color: red;
+	background-color: aqua;
+}
+
+.h{
+	background-color: green;
+	margin-left:30%;
+}
+
+.a{
+	background-color: orange;
+}
+
+.c{
+	background-color: maroon;
+}
+
+.cu{
+	background-color: blue;
+}

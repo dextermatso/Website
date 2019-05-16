@@ -1,0 +1,31 @@
+body{
+	margin: 0;
+}
+.jumbo{
+	text-align: center;
+}
+.arrow{
+	text-decoration: none;
+}
+.col-3, .col-6, .col-3{
+	border: solid 1px #787878;
+	height: 320px;
+	background-color: green;
+}
+.card-body{
+	width: 188px;
+	display: inline-block;
+	border: solid 15px white;
+	background-color: green;
+	height: 220px;
+}
+.col-5, .col-2, .col-5{
+	border: solid 1px #787878;
+	height: 50px;
+	background-color: green;
+}
+.footer{
+	background-color: green;
+	text-align: center;
+	color: pink;
+}

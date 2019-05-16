@@ -1,0 +1,58 @@
+body{
+	margin: 0;
+}
+header{
+	height: 100px;
+	border: solid 1px black;
+	margin-bottom: 22px;
+	text-align: center;
+}
+.col{
+	display: inline-block;
+	height: 390px;
+}
+.col1{
+	width: 25%;
+	background-color: green;
+	margin-right: 4%;
+}
+.col2{
+	width: 42%;
+	background-color: green;
+	margin-right: 3%;
+}
+.col3{
+	width: 25%;
+	background-color: green;
+}
+.box{
+	display: inline-block;
+	height: 180px;
+	width: 13%;
+	margin-right: 3%;
+	margin-top: 22px;
+}
+.col4{
+	background: linear-gradient(to right, red, blue, black, green, pink)
+}
+.col5{
+	background: linear-gradient(to right, red, blue, black, green, pink)
+}
+.col6{
+	background: linear-gradient(to right, red, blue, black, green, pink)
+}
+.col7{
+	background: linear-gradient(to right, red, blue, black, green, pink)
+}
+.col8{
+	background: linear-gradient(to right, red, blue, black, green, pink)
+}
+.col9{
+	background: linear-gradient(to right, red, blue, black, green, pink)
+}
+footer{
+	height: 100px;
+	border: solid 1px black;
+	margin-top: 22px;
+	text-align: center;
+}

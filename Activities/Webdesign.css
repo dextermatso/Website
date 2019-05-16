@@ -1,0 +1,37 @@
+header{
+	height: 75px;
+	border: 1px solid black;
+	background-image: url("qwe.jpg");
+	color: white;
+	text-align: center;
+}
+div{
+	display: inline-block;
+	height: 275px;
+	width: 20%;
+	margin-top: 10%;
+	margin-bottom: 10%;
+}
+footer{
+	height: 50px;
+	border: 1px solid black;
+	background-image: url("zxc.jpg");
+	background-repeat: no-repeat;
+	color: white;
+	text-align: center;
+}
+.col1{
+	background: linear-gradient(to right, red, blue, pink, purple, yellow);
+}
+.col2{
+	background: radial-gradient(black, gray, pink, skyblue, green);
+}
+.col3{
+	background: linear-gradient(to right, #696969, red, yellow, red, #696969);
+}
+.col4{
+	background: radial-gradient(black, gray, pink, skyblue, green);
+}
+.col5{
+	background: linear-gradient(to right, yellow, purple, pink, blue, red);
+}
